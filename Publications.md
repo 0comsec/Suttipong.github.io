@@ -2,9 +2,9 @@
 title: "Publications"
 ---
 
-My publications
-1.
-2.
-3.
-4.
-5.
+My publications:
+1. one
+2. two
+3. three
+4. four
+5. five
