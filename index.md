@@ -2,6 +2,6 @@
 title: Welcome to my blog
 ---
 
-[www.google.com](http://gg.com)
+[www.google.com](http://www.google.com)
 
 Hello
