@@ -4,4 +4,6 @@ author: Suttipong
 description: Diis Desc
 header_pages:
   - about.md
-  - portfolio.md
+  - Publications.md
+  - teaching.md
+  - index.md
