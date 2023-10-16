@@ -1,7 +1,5 @@
 ---
-title: Welcome to my blog
+title: my blog
 ---
 
-[www.google.com](http://www.google.com)
-
-Hello
+Hello this is my blog.
