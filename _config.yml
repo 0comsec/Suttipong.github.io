@@ -2,7 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 plugins:
 - jekyll-remote-theme
-title: DIIS Dev Sec Ops1
+title: DIIS Dev Sec Ops
 author: Suttipong
 description: Diis Desc
 header_pages:
