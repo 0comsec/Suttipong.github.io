@@ -2,4 +2,4 @@
 title: my blog
 ---
 
-Hello this is my blog1.
+Hello this is my blog.
