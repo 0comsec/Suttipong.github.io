@@ -1,7 +1,8 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 plugins:
 - jekyll-remote-theme
+- jekyll-include-cache
 title: DIIS Dev Sec Ops
 author: Suttipong
 description: Diis Desc
