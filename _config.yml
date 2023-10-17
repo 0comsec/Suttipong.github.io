@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
 - jekyll-remote-theme
 title: DIIS Dev Sec Ops
