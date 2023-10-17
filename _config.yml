@@ -1,4 +1,4 @@
-remote_theme: abhinavs/moonwalk
+theme: minima
 plugins:
 - jekyll-remote-theme
 title: DIIS Dev Sec Ops
